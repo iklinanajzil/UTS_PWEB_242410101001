@@ -14,6 +14,12 @@ Screenshot Aplikasi
 [Halaman Dashboard]
 <img src="public/image/Screenshot 2026-04-26 152242.png" width="700">
 
+[Halaman Profil] 
+<img src="public/image/Screenshot 2026-04-26 153327.png" width="700">
+
+[Halaman Pengelolaan]
+<img src="public/image/Screenshot 2026-04-26 153256.png" width="700">
+
 Fitur Utama
 - Autentikasi simulasi dengan pengiriman data username.
 - Dashboard responsif dengan visualisasi data.
