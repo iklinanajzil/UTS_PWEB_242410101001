@@ -1,6 +1,6 @@
 UTS Pemrograman Web 2026 - StockTrack
 
-Nama: Iklina Najzil  
+Nama: Iklina Najzil  Muhsinina
 NIM: 242410101001  
 Kelas: A
 
